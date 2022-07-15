@@ -11,7 +11,6 @@
         <li>👯 💬 Ask me about Javascript</li>
         <li>📫 How to reach me: mailonywilo@gmail.com</li>
     </ul>
-    <br>
 </div>
 
 <div>
