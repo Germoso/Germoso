@@ -21,7 +21,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" alt="" width="50px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="" width="50px">
     <br>
-    <hr>
 </div>
 
 
