@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
+    <h1 align="center">Hi 👋, I’m Purplerain69 </h1>
+</div>
+
 <!--
 **Purplerain69/Purplerain69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
