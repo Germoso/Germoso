@@ -5,6 +5,7 @@
 <br>
 
 <div>
+    <h2>About me:</h2>
     <ul>
         <li>🌱 I’m currently learning React</li>
         <li>👯 💬 Ask me about Javascript</li>
@@ -24,7 +25,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="" width="50px">
     <br>
 </div>
-    <br>
     <br>
 
 
