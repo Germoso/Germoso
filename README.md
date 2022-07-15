@@ -5,9 +5,9 @@
 <br>
 
 <div>
-    <ol>
+    <ul>
         <li>🔭 I’m currently working on ...</li>
-    </ol>
+    </ul>
     <br>
 </div>
 
