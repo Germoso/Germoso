@@ -26,13 +26,9 @@
 </div>
     <br>
 
-
-
-
-
 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Purplerain69&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Purplerain69&theme=light)](https://git.io/streak-stats)
 
 [![Purplerain69 GitHub stats](https://github-readme-stats.vercel.app/api?username=Purplerain69)](https://github.com/anuraghazra/github-readme-stats)
 
