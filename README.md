@@ -8,6 +8,9 @@
     <li>🔭 I’m currently working on ...</li>
 </ol>
 
+<br>
+
+📊 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Purplerain69&theme=dark)](https://git.io/streak-stats)
 
