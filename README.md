@@ -23,10 +23,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="" width="50px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="50px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="50px">
-    
-    <br>
 </div>
-    <br>
 
 📊 My Stats :
 
