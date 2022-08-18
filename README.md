@@ -18,12 +18,15 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="" width="50px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="" width="50px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="" width="50px">
+      <img src="   https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" alt="" width="50px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="" width="50px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="" width="50px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" alt="" width="50px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="" width="50px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="50px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="50px">
+
+
 
    <br/>
 </div>
