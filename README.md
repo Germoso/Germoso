@@ -7,8 +7,6 @@
 <div>
     <h2>About me:</h2>
     <ul>
-        <li>🌱 I’m currently learning React</li>
-        <li>👯 💬 Ask me about Javascript</li>
         <li>📫 How to reach me: mailonywilo@gmail.com</li>
     </ul>
 </div>
